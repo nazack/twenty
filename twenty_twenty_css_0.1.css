@@ -370,7 +370,7 @@ font: 8px work sans !important; font-weight:500;letter-spacing: 0.2px !important
 .sidebar {position:absolute;float:left;display: inline-block; z-index:99; right:80px;top:9px;position: fixed; width:230px; }
 .pull-me {margin-top:2px;display: block;position: relative;right: 0px;}
 .sb {font-weight: 600;font-size: 8px;letter-spacing:0.6px;color:#474747!important;text-transform:uppercase;
- position:relative; padding-bottom:1px;cursor: pointer;margin-top:7px;margin-left:5px;float:center!important;position:relative;}
+ position:relative; padding-bottom:1px;cursor: pointer;margin-top:7px;margin-left:10px;float:center!important;position:relative;}
 .sb:before { content: 'â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”'; font-size:9px!important;color:transparent;letter-spacing:-8px;font-weight: 400;position:relative;right:15px;}
 .sb:after { content: 'â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”'; font-size:9px!important;color:transparent;letter-spacing:-8px;font-weight: 400;position:relative;left:5px;}
 .panel {margin-left:-25px;left:0;margin-top:14px;position: relative;border-radius:3px;
