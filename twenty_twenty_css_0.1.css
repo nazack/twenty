@@ -200,7 +200,7 @@ padding:2px;  margin-bottom: 10px; font-family:playfair display;font-weight: 800
 .baspoi:nth-child(9) {width:120px;text-align:center;margin-top:4px;font-weight:800;font-size:11px;text-transform:lowercase;}
 .baspoi:nth-child(10) {width:120px;text-align:center;margin-top:0px;font-weight:800;
   font-size:7px;text-transform:uppercase;}
-.baspoi:nth-child(11) {width:115px;margin-left:5px;height:23px;overflow:hidden;margin-top:4px;padding-top:3px;}
+.baspoi:nth-child(11) {width:115px;margin-left:5px;height:23px;overflow:auto;margin-top:4px;padding-top:3px;}
 .baspoi:nth-child(12) .label, .baspoi:nth-child(11) .label {font-weight:bold;text-transform:lowercase;}
 .baspoi:nth-child(12) {margin-left:125px;margin-top:-60px;height:48px;max-width:295px;padding:5px;overflow:auto;}
 .baspoi:nth-child(13) {text-align:justify;margin-left:455px;margin-top:-60px;}
