@@ -1,5 +1,5 @@
 #FAM a, #FAM a:active, #FAM a:hover {color:var(--main)!important;}
-#FAM-toolbar, #FAM-attachment-total {background: var(--main)!important;}
+#FAM-toolbar, #FAM-attachment-total, .FAM-button {background: var(--main)!important;}
 #FAM-button { color:var(--main)!important; background:transparent!important; font-size: 21px!important; transition-property: left!important;
  left: 6px; bottom: 8px; position: fixed; cursor: pointer; z-index: 999;  transition-property: right; 
  transition-duration: 500ms;  width: 30px; height: 30px;}
