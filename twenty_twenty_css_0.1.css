@@ -1,4 +1,5 @@
-#FAM a{color:var(--main)!important;}
+#FAM a, #FAM a:active, #FAM a:hover {color:var(--main)!important;}
+
 /*pa*/
 .iconop, .iconop i{ font-size: 23px;padding: 5px;font-weight:100!important;margin-top:-5px;}
 .iconopl {width: 52px;font-size: 7px;text-transform: uppercase;margin:0px 6px 15px 6px;
